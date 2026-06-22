@@ -1,3 +1,15 @@
+> **This is a personal fork of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) for MC 26.2, maintained by [finlayjn](https://github.com/finlayjn).**
+> 
+> **Added mods:** Inventory Management, Mouse Tweaks, Xaero's Minimap, Xaero's World Map, Jade, Villager Inventory Plugin, REI, Held Item Info, AppleSkin, Distant Horizons
+> 
+> **Added resource packs:** Faithful 32x
+> 
+> **Added shader packs:** Complementary Unbound
+> 
+> **Config changes:** Distant Horizons — pre-existing chunks only, OpenGL renderer
+
+---
+
 <div align="center">
 
 <img src="https://download.fo/icon.png" alt="FO logo" width="10%" height="10%">

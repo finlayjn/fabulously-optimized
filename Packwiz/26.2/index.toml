@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "f69b8aa6a4a49bbb29a501c908407c66accc905a579d69ad0f2791b41263169e"
+
+[[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
 hash = "ecfa56a3a4807ba8aaf70d50740b6bf1d398c0f40726685d5c16567f8f63246f"
 
@@ -190,6 +194,16 @@ hash = "4efb51f62d10b32c953e837262930edbe31e543cbb831a9d7bbecec5991c9691"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1d48d612218aa34c193bf26ed6468c6e7372a5501ab30ba0daa0f826483018a6"
+metafile = true
+
+[[files]]
 file = "mods/betterblockentities.pw.toml"
 hash = "0db910b4e7c2305ab174241b9fd8b542004393d2851d588f2f5044f58550588c"
 metafile = true
@@ -230,6 +244,11 @@ hash = "78627dd840ac0b43b95868bb202eaa91dae2c054af3d377e5697dc164f841c01"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "15f5d74f5b60dc0279a4c910db2db721ff1a9f5deb2620006f7007c8ab5e9558"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "b0b20b7b61f723236932043de6e779eb3914042f10d8620ef1afa0c4c099bc9e"
 metafile = true
@@ -265,6 +284,16 @@ hash = "17c4342eb1efd0bfc52e5b405b729302e829b290cb1f8ffefc97eb77d3c52aa8"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "e0718ec44f9abe7e4fa8b4122478158db98b8dc2376a98c7382e0298e3b5bfa6"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "405ee74656b1753351e744000b3c10126f107e8c9233ff97915452dbc334568e"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "e61449dde575fed7a0dc5596169345f2b3fa3ea67195e690ab67bea6033594a6"
 metafile = true
@@ -272,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "068a3c50d3673047afcdec4f7cb1f093416fd8a1a8d1bec2878700825cef64c4"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e839a29e33dad2b8fa049b44f7db9de2eff9e265364525e7b56d082c60e4323c"
 metafile = true
 
 [[files]]
@@ -305,6 +339,11 @@ hash = "ce06014fd6a13731fb8655b55771d57b0598bbd6447bc9af051ccf563f53a145"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "4e2207bde16a65160958cd795731b6d6d7474c4fe0e4e0587a485bdbb7006a67"
 metafile = true
@@ -312,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a493681fa5d27bc7b8ae940caab2f4b0530e671a6ac8c8b6654d433dba57fe5d"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "be2716e6d7d8936e79a06a7a8ec1e85e2fa1f966a9bd1bef224914a3765b884d"
 metafile = true
 
 [[files]]
@@ -340,6 +384,21 @@ hash = "58f1b88d724a30d10359c9ac9febdef6dabbcfec39bcee4476c1e65b7ace807d"
 metafile = true
 
 [[files]]
+file = "mods/villager-inventory-hwyla-plugin.pw.toml"
+hash = "2d6e534fefbb64862349ed8c89ff07399d061e221200fa39c0695d2f33371f4a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1cb0dc7d3e05cb05830ddd52b17ff3f52ba1b4a96455b635e1b319c2d397beea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bb63e49b1f3ec1d6124854b8eea24ec77b77226f18048b4c4b03c0fdc09baf99"
+metafile = true
+
+[[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "5252379e17b33ea9048225a281a021843f7dd99b3ba0aee0dd543ab77fd9175a"
 metafile = true
@@ -356,4 +415,14 @@ hash = "a8307f69a151271867659e934600cd444b747332e66eb1ddacefcd7303f3a899"
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "752355dacac3c356a954e59a53dc522ddd3f9fb10caebe651437a7b768590f8b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "8ca9c445031500d7d4866636f374b614fffd69738b154e42ca271287d1b2e139"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true

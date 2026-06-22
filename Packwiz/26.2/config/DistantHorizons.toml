@@ -1,0 +1,10 @@
+_version = 4
+
+[common.worldGenerator]
+	# Import LODs for pre-existing chunks only; do not generate new chunks.
+	enableDistantGeneration = true
+	distantGeneratorMode = "PRE_EXISTING_ONLY"
+
+[client.advanced.graphics.experimental]
+	# Use OpenGL renderer for Iris shader compatibility (26.2 default is BLAZE_3D).
+	renderingEngine = "OPEN_GL"

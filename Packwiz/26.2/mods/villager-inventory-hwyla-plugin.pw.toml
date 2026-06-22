@@ -1,0 +1,13 @@
+name = "Villager Inventory Plugin for Hwyla forks"
+filename = "villager-inventory-hwyla-plugin-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ESa9RivE/versions/Gd7wQWhA/villager-inventory-hwyla-plugin-2.0.3.jar"
+hash-format = "sha512"
+hash = "96fdb22b6b3857f7899875200ee6a6820b14a8746ce6482ae56d82fc272b14d0b8a3afd4c3ea935d18ad2a626124f46b6fe0a4cbf0c291f932f170ad1903d08f"
+
+[update]
+[update.modrinth]
+mod-id = "ESa9RivE"
+version = "Gd7wQWhA"
